@@ -3915,12 +3915,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/5.m3u8
 
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6sFyDLT/HBOHitslogobyvovanloc.png", HBO HITS
 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/1.m3u8?
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/1.m3u8
 
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/18jrZjw/HBOFamilylogobyvovanloc.webp", HBO FAMILY
 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/5.m3u8?
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/5.m3u8
 
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/k2sQDfF/HBOSignaturelogobyvovanloc.png", HBO Signature
 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/16.m3u8?
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/16.m3u8
